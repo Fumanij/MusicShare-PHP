@@ -41,9 +41,9 @@
 		</ol>
 		
 		<br/>
-		I made this page for practice and just for fun and I would like to make something new.<br/>
+		I made this page for practice and just for fun. I would like to make something new.<br/>
 		More info on my contact page: <a href="http://www.danielbicskei.com/">danielbicskei.com</a><br/><br/>
-		When you upload a music, the program saves the details to a database. The playlist uses the database to get back details too.  
+		When you upload a music, the program saves the details to a database. The playlist uses the database to get back details.  
 		<br/><br/>Good browse and have fun!
 		
 	</div>
